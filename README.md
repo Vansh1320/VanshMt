@@ -75,11 +75,13 @@ Here are a few projects I’m proud of:
 - 🔗 [Project 2]([https://github.com/VanshMt/project2](https://vanshmt.github.io/Intro/)): Made this project as an Introduction Website
 - Python Projects Coming soon -
 ---
+<!-- Test update for GitHub badges -->
+_This is a minor update._
 
-### 📝 Latest Blog Posts
+<!--### 📝 Latest Blog Posts-->
 
 <!-- BLOG-POST-LIST:START -->
-- Coming soon...
+<!-- Coming soon...-->
 <!-- BLOG-POST-LIST:END -->
 
 ---
